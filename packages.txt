@@ -1,0 +1,22 @@
+packages to install 
+
+dateutil
+joblib
+matplotlib
+numpy
+PIL
+pandas
+pip
+pkg_resources
+pytz
+scipy
+setuptools
+sklearn
+six
+cycler
+distutils-precedence
+kiwisolver
+matplotlib
+pylab
+pyparsing
+threadpoolctl
